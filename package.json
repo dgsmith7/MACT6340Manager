@@ -5,7 +5,8 @@
   "main": "app.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
   },
   "keywords": [],
   "author": "David G. Smith",
@@ -18,10 +19,9 @@
     "fs-extra": "^11.2.0",
     "hardhat": "^2.19.4",
     "node-html-to-image": "^4.0.0",
-    "path": "^0.12.7"
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0"
   },
   "devDependencies": {
-    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
     "nodemon": "^3.0.2"
   }
 }
