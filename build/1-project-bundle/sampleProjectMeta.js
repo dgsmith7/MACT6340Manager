@@ -8,6 +8,7 @@ export const projectInfo = {
   price: 0.01,
   royaltiesPercent: 7.5,
   titleForViewport: "A Phi-based Shape in THREEjs",
+  projectWebUrl: "https://mact6340-app-nzv3s.ondigitalocean.app/projects",
   openSeaCollectionName: "Phi Geometry",
   openSeaCollectionDescription:
     "A Phi-based interactive shape rendered with THREEjs.",

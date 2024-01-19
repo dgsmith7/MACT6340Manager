@@ -8,6 +8,7 @@ const port = 8080;
 app.use(express.static("public"));
 
 app.post("/build-sequence", async (req, res) => {
+  console.log("going");
   await utils
     .completeBuildAndDeploySequence()
     .then(() => {

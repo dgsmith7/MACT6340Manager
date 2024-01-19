@@ -1,0 +1,24 @@
+INSERT INTO projects (
+project_name,
+img_url,
+project_description,
+quantity,
+price_eth,
+open_date_gmt,
+royalty_percent,
+active,
+contractAddress,
+summaryData
+)
+VALUES (
+'Icosahedron Geometry',
+'https://ipfs.io/ipfs/bafkreic4sid4lqymjkgfrsn35ady5zxa7dk7l6jpef3dkhm63upnn2amzu',
+'An Icosahedron that rotates around an axis.  The background color and color of the knot are determined by each unique hash.',
+13,
+0.01,
+'2024-02-01 21:00:00',
+5,
+0,
+'0x316825011CaF9dc480df979f39aBeFbA2E1c096d',
+'{"project": "Icosahedron Geometry","elements":[{"images": [{"token": "1", "ipfs": "https://ipfs.io/ipfs/bafkreic4sid4lqymjkgfrsn35ady5zxa7dk7l6jpef3dkhm63upnn2amzu"},{"token": "2", "ipfs": "https://ipfs.io/ipfs/bafkreidsxgo5mipttnp77iqiuzbxee2gqjx6bsrlq7u7zbrd53u6lgpkqe"},{"token": "3", "ipfs": "https://ipfs.io/ipfs/bafkreichwqlck64zneyrpxirlvrnzyg3uia5exsarbdmig75kxava7sisy"},{"token": "4", "ipfs": "https://ipfs.io/ipfs/bafkreidx4xtuww6b4a4xazclr4y2ogrkhdlsrkhv2racqsyx2g6zncck3a"},{"token": "5", "ipfs": "https://ipfs.io/ipfs/bafkreidoifbj465xoowbrcgtwd2vmxb73ues4phjnmcaeikem3htmfvddm"},{"token": "6", "ipfs": "https://ipfs.io/ipfs/bafkreieochw6nsuaf74aedp525hpknoapo47gw2c74ltbnd76f3wnzsczy"},{"token": "7", "ipfs": "https://ipfs.io/ipfs/bafkreig6m7l5p36wikwypw4mdovyblxctxpifhjw36yl247ikyddxcaqmm"},{"token": "8", "ipfs": "https://ipfs.io/ipfs/bafkreigciwezwwqsja7pxth7p2zmx4vdtutcvlyfhjb6zr66vtgpobe5qm"},{"token": "9", "ipfs": "https://ipfs.io/ipfs/bafkreif7okt2b2d3bvdi7rfecqlh2fgrlg32vuxcfm3htnhw53d6avthmq"},{"token": "10", "ipfs": "https://ipfs.io/ipfs/bafkreihphaydoywwa37ofvf6mnwtt7lykojd4tjsu6mnhqqd3u4rd4dub4"},{"token": "11", "ipfs": "https://ipfs.io/ipfs/bafkreiap44lp3xqom7bzzdxmwhbjr4hy7mtjmo3aruktmvtwmqtjzvhxxa"},{"token": "12", "ipfs": "https://ipfs.io/ipfs/bafkreib7mikpshkpuiy5qecvjcwdirbyofaxt5saohvslbmkryhgpjtunq"},{"token": "13", "ipfs": "https://ipfs.io/ipfs/bafkreicb6cwuwjemce5uerpcvytjejzuxxfxuvtkb3lrjy6j5lqd3lescm"}]},{"anims": [{"token": "1", "ipfs": "https://ipfs.io/ipfs/bafybeihy2kg4ykshzf6wsyyqgcgqsgxst35uez3g5logdrwpn7s27bpppe"},{"token": "2", "ipfs": "https://ipfs.io/ipfs/bafybeih5n6wzhy7h37dchogdxikhirzn723zdpy2avqrielndarc4ntcme"},{"token": "3", "ipfs": "https://ipfs.io/ipfs/bafybeihhsru2ollqbgo4d2ka6tflsrimgfzryzubn4jj3mp6hsdamgdmke"},{"token": "4", "ipfs": "https://ipfs.io/ipfs/bafybeidmlknfrqcurt7lsqjaftl2oyq27evzrapi7pvcehehylvzx57qbm"},{"token": "5", "ipfs": "https://ipfs.io/ipfs/bafybeigoyl2m35f4wgoguq4ae3bqsmgkaz66ce2t2fczm64hp7mbepywxe"},{"token": "6", "ipfs": "https://ipfs.io/ipfs/bafybeibiufznk2l5l5bxsy4aizrtusc35ge3ldgkkyxxqo6qjo7oa3qi2m"},{"token": "7", "ipfs": "https://ipfs.io/ipfs/bafybeicuf3quxkqnacs2qb4rz67jjwv5vwy2ooq7bn2fea3rob2jcyhfye"},{"token": "8", "ipfs": "https://ipfs.io/ipfs/bafybeib6dng4i54inq2dzmv42zm6ys6vj6yr7le5q545ypn3j547t4gmye"},{"token": "9", "ipfs": "https://ipfs.io/ipfs/bafybeibq6fiezpjqnwfaj5ya3tixcgdenpnklqpk532nww2bk3qg4xxbl4"},{"token": "10", "ipfs": "https://ipfs.io/ipfs/bafybeicp4dhiiosywsyvlvcbz2tstlmx4ix5gemtrz4po6rqrkxyliq2jm"},{"token": "11", "ipfs": "https://ipfs.io/ipfs/bafybeigkdncr3texmzybwkd77j6zjpon3dqst3bcl2epnutsxu3mjbbxs4"},{"token": "12", "ipfs": "https://ipfs.io/ipfs/bafybeibqhwjh2svb6nhh6jtkoy7pacn7g64szyfzhrdsd5lekehfjyemge"},{"token": "13", "ipfs": "https://ipfs.io/ipfs/bafybeidklta3ut2gblcb7xpfc5kqv56u3dfgbklmq2v3weo3rxk7y2guca"}]},{"metas":[{"token":"1","ipfs":"https://ipfs.io/ipfs/bafkreifrr2euhauhmfjm3aohyha35leo5woykbzemvh42vxu7tcf26ga5q"},{"token":"2","ipfs":"https://ipfs.io/ipfs/bafkreifv4il2lzzp5j6wtdtuyo6se77j2pthxggbk2mtkegjgzp2kvnnhi"},{"token":"3","ipfs":"https://ipfs.io/ipfs/bafkreicvcnw6v5vnutcl2h5pg35e2l27amgwoo5zr6pmaab6qadxrxjrmu"},{"token":"4","ipfs":"https://ipfs.io/ipfs/bafkreibyjep2riousy57isqfdpnqiqex3wwbepighwvc3hdngwm6lgxeae"},{"token":"5","ipfs":"https://ipfs.io/ipfs/bafkreib7bh3fy736qc2lntg2o67pqctewlcslrs5fk4dqt2zhlcnqpdtca"},{"token":"6","ipfs":"https://ipfs.io/ipfs/bafkreigfo42elq56q2qj2flqpbqcepz3kpgdah44qgh7fsk5m35xa2cvvy"},{"token":"7","ipfs":"https://ipfs.io/ipfs/bafkreiht25bablnzsxhaagae662w6oopfudfyrcqriq3kmakch3kojjb44"},{"token":"8","ipfs":"https://ipfs.io/ipfs/bafkreifw7qaz4i6r73qa2vnexbet7vxvqt3aiqseddqq2wxbkarekiqtkm"},{"token":"9","ipfs":"https://ipfs.io/ipfs/bafkreiasue3mzegj44dczslb4le5xcbdu73dxtkjovityy7sdrcgguxg5a"},{"token":"10","ipfs":"https://ipfs.io/ipfs/bafkreidwfao4q53jfns3bktxmachx2tiwagldbqngiu6bbdybjtxkdplce"},{"token":"11","ipfs":"https://ipfs.io/ipfs/bafkreielslubzf5yitcw67bvkkvxjqnynowaedn245fn6srvc5vnjp6mde"},{"token":"12","ipfs":"https://ipfs.io/ipfs/bafkreihjwidprutfumqbhgrcl4xwjqigbq3gnengznxzqa3lxuswezvnoi"},{"token":"13","ipfs":"https://ipfs.io/ipfs/bafkreih657xw6hnrqtbayldfv3eszcmnkwvzzey5oocprkd3tpa3cdhakq"}]},{"project-image": "https://ipfs.io/ipfs/bafkreic4sid4lqymjkgfrsn35ady5zxa7dk7l6jpef3dkhm63upnn2amzu","project-meta": "https://ipfs.io/ipfs/bafkreihhdosyxiuntxxwhcc4dnsqw2wduwvmlfmmxcfqrwhf3gamralzxe"}]}'
+);
